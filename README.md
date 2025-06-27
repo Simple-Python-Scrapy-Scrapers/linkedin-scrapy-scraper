@@ -288,8 +288,8 @@ Want to enhance the scraper with:
 
 ## 🔗 Related Projects
 
-- [Amazon Product Scraper](../amazon-scrapy-scraper/) - E-commerce data extraction
-- [Indeed Jobs Scraper](../indeed-scrapy-scraper/) - Alternative job board scraping
+- [Amazon Product Scraper](https://github.com/Simple-Python-Scrapy-Scrapers/amazon-scrapy-scraper/) - E-commerce data extraction
+- [Indeed Jobs Scraper](https://github.com/Simple-Python-Scrapy-Scrapers/indeed-scrapy-scraper/) - Indeed job board scraping with Scrapy and ScrapeOps
 
 
 ---
@@ -350,24 +350,16 @@ Add enterprise-grade monitoring to your LinkedIn scraper:
 
 ### 🌐 Advanced Proxy Integration
 Bypass LinkedIn's anti-bot protection:
-- [ScrapeOps Proxy API](https://scrapeops.io/web-scraping-proxy-api/)
+- [ScrapeOps Proxy API](https://scrapeops.io/proxy-aggregator/)
 - Residential IP rotation for profile scraping
 - Geographic targeting for localized job searches
 
 ### 🔍 LinkedIn Scraping Best Practices
 Learn advanced LinkedIn scraping techniques:
-- [LinkedIn Scraping Guide](https://scrapeops.io/web-scraping-playbook/linkedin-scraping/)
+- [LinkedIn Scraping Guide](https://scrapeops.io/websites/linkedin/how-to-scrape-linkedin)
 - [LinkedIn Website Analyzer](https://scrapeops.io/websites/linkedin) - Comprehensive LinkedIn scraping insights
 - Anti-detection strategies and rate limiting
 - Legal compliance and ethical scraping practices
-
----
-
-## Development Guides
-
-Master LinkedIn data extraction with these comprehensive tutorials:
-
-- **[LinkedIn Company Data Extraction](https://scrapeops.io/python-scrapy-playbook/python-scrapy-linkedin-company-scraper/)**
 
 
 ---
